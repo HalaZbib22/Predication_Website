@@ -29,8 +29,7 @@ body {
 }
 
 #Random_Dog {
-  width: 200px;
-  height: 200px;
+  width: 50%;
   margin: 1rem auto;
 }
 
@@ -60,8 +59,12 @@ body {
   padding: 5px 10px;
 }
 
+.container{
+    max-width:100%;
+}
+
 .Display_Box {
-  max-width: 82%;
+  max-width: 87%;
   background-color: #e7e7e7;
   height: 40vh;
   margin: 0px auto;
