@@ -54,13 +54,9 @@ body {
 }
 
 #Input_Name {
-  max-width: 55%;
+  max-width: 54.5%;
   height: 55px;
   padding: 5px 10px;
-}
-
-.container{
-    max-width:100%;
 }
 
 .Display_Box {
