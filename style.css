@@ -21,7 +21,7 @@
      align-items: center;
  }
  .header > h4 {
-    margin-top: 10px;
+    margin:1rem auto;
     font-weight: normal;
     font-size: 15px;
     color: rgba(0, 0, 0, 0.4);
@@ -59,7 +59,7 @@
  }
  
  .Display_Box{
-     max-width:85%;
+     max-width:82%;
      background-color: #e7e7e7;
      height:40vh;
      margin:0px auto;
@@ -79,9 +79,9 @@
      font-size: 20px;
  }
 
- @media (min-width: 500px) { 
+ /* @media (min-width: 500px) { 
     .main{
         flex-direction: row;
         max-width:fit-content;
     }
- }
+ } */
