@@ -48,7 +48,7 @@ window.onload = function () {
     // })
     .then((data) => {
       let name = document.createElement('p');
-      name.textContent = `Name: ${Input`Name}`;
+      name.textContent = `Name: ${InputName}`;
       document.getElementById('DB').appendChild(name);
       let gender = document.createElement('p');
       gender.textContent = `Gender: ${data[0].gender}`;
